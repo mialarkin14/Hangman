@@ -1,5 +1,7 @@
 
-A simple implementation of a Hangman game in Python 💻✏️
+A simple implementation of a Hangman game 
+
+Language: Python 🐍 
 
 Includes:
 
