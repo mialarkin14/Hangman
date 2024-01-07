@@ -7,6 +7,7 @@ Includes:
 
 * Simple, easy to read code with function docstrings
 * Consistent and creative output
+* 100% original code
 
 
 Does NOT include:
