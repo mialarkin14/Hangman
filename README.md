@@ -14,4 +14,4 @@ Does NOT include:
 
 * Optimization of algorithms. Implementation was limited to functionality only
   
-  --> Optimized version in progress using a dictionary
+
